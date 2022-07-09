@@ -17,7 +17,7 @@ Code is not the only thing you can contribute. I truly appreciate contributions 
 ## Issues
 
 - Before opening a new issue, look for existing issues (even closed ones).
-- [Don't needlessly bump issues.](https://blog.sindresorhus.com/issue-bumping-e3b9740e2a0)
+- [Don't needlessly bump issues.](https://medium.com/sindre-sorhus/issue-bumping-e3b9740e2a0)
 - If you're reporting a bug, include as much information as possible. Ideally, include a test case that reproduces the bug. For example, a [Runkit](https://runkit.com) or [repl.it](https://repl.it) playground. Even better, submit a pull request with a [failing test](https://github.com/avajs/ava/blob/master/docs/01-writing-tests.md#failing-tests).
 
 ## Pull requests
